@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am beginning my journey in technology with Python fundamentals and problem-solving practice on LeetCode. My focus is on developing skills in data analysis and machine learning, while building projects that showcase my growth. I document my work on GitHub to demonstrate not only my coding ability but also my approach to solving problems. I am eager to apply my skills in real-world settings through internships and remote opportunities, while continuously learning and contributing to innovative teams.
 <!--
 **Saiprasanthi136/Saiprasanthi136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
